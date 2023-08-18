@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Serhii Ruban",
+        "isAdmin": false,
+        "age": 20
+    },
+    {
+        "name": "Tom Hanks",
+        "isAdmin": true,
+        "age": 30
+    }
+]
